@@ -170,7 +170,7 @@ The TypeScript compiler can output source maps. Configure the `sourceRoot` prope
 }
 ```
 
-### Uploading / Hosting Source Maps
+### Uploading / Hosting Source Map
 Source maps can be either:
 
 1.  Uploaded directly to Sentry (**recommended**).
